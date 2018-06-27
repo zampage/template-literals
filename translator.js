@@ -47,7 +47,7 @@ function translate(immutable, ...mutable){
 }
 
 //setup
-let LANG = 'de';
+const LANG = 'de';
 const KEYSTORE = {
 	fruit_common: {
 		de: 'Apfel',

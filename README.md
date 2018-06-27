@@ -6,7 +6,7 @@ The `translator.js` is probably the most interesting one.
 
 ```js
 //setup
-let LANG = 'de';
+const LANG = 'de';
 const KEYSTORE = {
 	fruit_common: {
 		de: 'Apfel',
